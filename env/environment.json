@@ -1,0 +1,29 @@
+{
+  "URL": {
+    "baseUrl": "https://purepetals.mdpcl.com/api/api/"
+  },
+  "endpoints": {
+    "login": "login",
+    "registration": "registration",
+    "bannerproduct": "bannerproduct",
+    "productlist": "productlist",
+    "addtocart": "addtocart",
+    "cartitemlist": "cartitemlist",
+    "cancelcartitem": "cancelcartitem",
+    "alladdreslist": "alladdreslist",
+    "addadress": "addadress",
+    "allorderlist": "allorderlist",
+    "pendingorders": "pendingorders",
+    "profiledetails": "profiledetails",
+    "proceedtobuy": "proceedtobuy",
+    "return": "return",
+    "Categorylist": "categorylist",
+    "Productbycategory": "productbycategory",
+    "Productdetails": "productdetails",
+    "Similarproducts": "similarproducts",
+    "SendRegistrationOtp":"send-registration-otp",
+    "ForgotPasswordOtp":"forgot-password-otp",
+    "ResetPassword":"reset-password",
+    "VerifyRegistrationOtp":"verify-registration-otp"
+  }
+}
